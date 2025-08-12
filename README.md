@@ -11,7 +11,7 @@ This project was made to practice and understand how to structure a GitHub proje
 - HTML
 - CSS
 - JavaScript
-- (You can add more here)
+
 
 ## 🛠️ Installation
 
